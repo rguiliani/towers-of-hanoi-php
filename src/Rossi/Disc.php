@@ -1,5 +1,5 @@
 <?php
-
+namespace Rossi;
 class Disc {
     const DELIMITER = '|';
     public $size;

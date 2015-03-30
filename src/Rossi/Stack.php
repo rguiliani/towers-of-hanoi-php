@@ -1,5 +1,5 @@
 <?php
-
+namespace Rossi;
     class Stack {
         const DELIMITER = '|';
         const SPACE = ' ';

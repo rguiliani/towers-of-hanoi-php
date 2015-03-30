@@ -1,5 +1,5 @@
 <?php
-
+namespace Rossi;
 class TowerOfHanoi {
     const STACK_DELIM = ' ';
     protected $stacksNum;
